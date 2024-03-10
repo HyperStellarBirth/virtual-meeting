@@ -1,5 +1,5 @@
 // src/CameraComponent.tsx
-import React, { useState, useRef, useEffect } from 'react';
+import React, { useState, useRef } from 'react';
 import Webcam from 'react-webcam';
 
 interface CameraProps {
